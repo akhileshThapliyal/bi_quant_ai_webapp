@@ -2,7 +2,7 @@
   "name": "bi_quant_ai_webapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akhileshthapliyal.github.io/bi_quant_ai_webapp",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

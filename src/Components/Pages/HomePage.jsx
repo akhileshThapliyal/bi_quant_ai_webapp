@@ -25,7 +25,7 @@ export default function HomePage(){
                             <div className="text-center">
                                 <div className="position-relative z-1">
                                     <p className="text-primary-dark" data-aos="fade-up-sm">
-                                            Best AI Copywriting Tool 2
+                                            Best AI Copywriting Tool
                                     </p>
                                     <h1 className="text-white mb-8" data-aos="fade-up-sm" data-aos-delay="150">
                                             A 10X Faster Way To Write Your <br />
