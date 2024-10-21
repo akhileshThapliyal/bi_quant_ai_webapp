@@ -8,7 +8,7 @@ import routes from './Routes/routes';
 function App() {
   return(
     <div className="wrapper d-flex flex-column justify-between">
-      <Router>
+      <Router> 
         <Header/>
         <Routes>
           {routes.map((route, index) => (
