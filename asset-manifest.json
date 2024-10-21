@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bi_quant_ai_webapp/static/css/main.e6c13ad2.css",
-    "main.js": "/bi_quant_ai_webapp/static/js/main.8cedad43.js",
-    "static/js/453.7cc0814b.chunk.js": "/bi_quant_ai_webapp/static/js/453.7cc0814b.chunk.js",
-    "index.html": "/bi_quant_ai_webapp/index.html",
-    "main.e6c13ad2.css.map": "/bi_quant_ai_webapp/static/css/main.e6c13ad2.css.map",
-    "main.8cedad43.js.map": "/bi_quant_ai_webapp/static/js/main.8cedad43.js.map",
-    "453.7cc0814b.chunk.js.map": "/bi_quant_ai_webapp/static/js/453.7cc0814b.chunk.js.map"
+    "main.css": "./static/css/main.e6c13ad2.css",
+    "main.js": "./static/js/main.ad5a8d05.js",
+    "static/js/453.7cc0814b.chunk.js": "./static/js/453.7cc0814b.chunk.js",
+    "index.html": "./index.html",
+    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
+    "main.ad5a8d05.js.map": "./static/js/main.ad5a8d05.js.map",
+    "453.7cc0814b.chunk.js.map": "./static/js/453.7cc0814b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8cedad43.js"
+    "static/js/main.ad5a8d05.js"
   ]
 }
