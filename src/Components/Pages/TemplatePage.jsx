@@ -8,7 +8,7 @@ export default function TemplatePage(){
     }, []);
 
     return (
-        <>
+        <> 
          {/* The main content goes here <main>.....</main> */}
          {/** 
           * Replace <!-- with {/* 
