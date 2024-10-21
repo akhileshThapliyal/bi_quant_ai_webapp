@@ -12,7 +12,7 @@ export default function Header(){
 
                      {/* Logo */}
 
-                     <a className="navbar-brand" href="./index.html">
+                     <a className="navbar-brand" href="./">
                         <img src='assets/images/logo.svg' alt="" width="165" />
                     </a>
 
@@ -34,7 +34,7 @@ export default function Header(){
                                 <ul className="navbar-nav gap-lg-2 gap-xl-5">
                                 {
                                     MenuList.map((item, index) => (
-                                        <NavMenuList className={`nav-item ${item.subMenu ? "dropdown" : ''}`} key={index}>
+                                        <NavMenuList>
                                             {item}
                                         </NavMenuList>))
                                 }

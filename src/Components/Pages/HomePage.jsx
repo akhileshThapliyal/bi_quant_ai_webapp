@@ -1,17 +1,11 @@
 import { useEffect } from "react";
+import { loadMainJS } from '../../Utils/utils'; // Import the global functions
 
 export default function HomePage(){
 
     useEffect(() => {
-        console.log("I have been mounted")
-      
-        const script = document.createElement("script");
-    
-        script.src = "assets/js/main.js";
-        script.async = true;
-    
-        document.body.appendChild(script);
-    }, [])
+        loadMainJS();
+    }, []);
 
     return (
         <>
