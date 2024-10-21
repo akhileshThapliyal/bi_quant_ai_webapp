@@ -1,6 +1,5 @@
 export default function Footer(){
     return (
-        // <!-- Footer -->
         <footer className="footer bg-striped pt-10 pt-lg-15">
             <div className="container">
                 <div className="row g-10">
