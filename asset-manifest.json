@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/bi_quant_ai_webapp/static/js/main.92f88977.js",
+    "main.css": "/bi_quant_ai_webapp/static/css/main.e6c13ad2.css",
+    "main.js": "/bi_quant_ai_webapp/static/js/main.0fab79fb.js",
+    "static/js/453.7cc0814b.chunk.js": "/bi_quant_ai_webapp/static/js/453.7cc0814b.chunk.js",
     "index.html": "/bi_quant_ai_webapp/index.html",
-    "main.92f88977.js.map": "/bi_quant_ai_webapp/static/js/main.92f88977.js.map"
+    "main.e6c13ad2.css.map": "/bi_quant_ai_webapp/static/css/main.e6c13ad2.css.map",
+    "main.0fab79fb.js.map": "/bi_quant_ai_webapp/static/js/main.0fab79fb.js.map",
+    "453.7cc0814b.chunk.js.map": "/bi_quant_ai_webapp/static/js/453.7cc0814b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.92f88977.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0fab79fb.js"
   ]
 }
