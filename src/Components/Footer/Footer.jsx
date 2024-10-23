@@ -1,13 +1,13 @@
 export default function Footer(){
     return (
-        <footer className="footer bg-striped pt-10 pt-lg-15">
+        <footer className="footer bg-color-blur pt-10 pt-lg-15">
             <div className="container">
                 <div className="row g-10">
                     <div className="col-lg-9 col-xl-8 order-lg-2">
                         <div className="row g-6">
                             <div className="col-md-4 col-lg-4">
                                 <div className="footer-widget text-center text-md-start">
-                                    <h6 className="text-white mb-2">Gen AI</h6>
+                                    <h6 className="mb-2">Gen AI</h6>
                                     <ul className="link-list list-unstyled mb-0">
                                         <li>
                                             <a href="about.html">About</a>
@@ -29,7 +29,7 @@ export default function Footer(){
                             </div>
                             <div className="col-md-4 col-lg-4">
                                 <div className="footer-widget text-center text-md-start">
-                                    <h6 className="text-white mb-2">Use Cases</h6>
+                                    <h6 className="mb-2">Use Cases</h6>
                                     <ul className="link-list list-unstyled mb-0">
                                         <li>
                                             <a href="use-cases-details.html">AI writer</a>
@@ -51,7 +51,7 @@ export default function Footer(){
                             </div>
                             <div className="col-md-4 col-lg-4">
                                 <div className="footer-widget text-center text-md-start">
-                                    <h6 className="text-white mb-4">News & Update</h6>
+                                    <h6 className="mb-4">News & Update</h6>
                                     <form action="#">
                                         <div className="input-group">
                                             <input type="email" className="form-control" placeholder="Enter your email" />
@@ -112,7 +112,7 @@ export default function Footer(){
                     <div className="col-lg-3 order-lg-1 me-auto">
                         <div className="footer-widget text-center text-lg-start">
                             <a href="">
-                                <img src="assets/images/logo.svg" alt="" className="img-fluid" width="135" />
+                                <img src="assets/images/logo-blue.svg" alt="" className="img-fluid" width="135" />
                             </a>
                             <p className="fs-sm mb-0 mt-4">
                                 A Magical Tool to Optimize you content for the first know who you're targeting. Identify your
@@ -123,7 +123,7 @@ export default function Footer(){
                 </div>
 
                 <div className="text-center py-6 mt-8">
-                    <p className="fs-sm mb-0">Copyright <span className="text-primary-dark">GenAI</span>. Design By Marvel_Theme</p>
+                    <p className="fs-sm mb-0">Copyright <span className="text-primary">GenAI</span>. Design By Marvel_Theme</p>
                 </div>
             </div>
         </footer>

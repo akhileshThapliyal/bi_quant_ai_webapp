@@ -7,13 +7,13 @@ const Header = () => {
     return(
         <>
          {/* Navbar */}
-         <nav className="navbar navbar-expand-lg fixed-top bg-dark" data-bs-theme="dark">
+         <nav className="navbar navbar-expand-lg fixed-top bg-white">
                     <div className="container">
 
                      {/* Logo */}
 
                      <a className="navbar-brand" href="./">
-                        <img src='assets/images/logo.svg' alt="" width="165" />
+                        <img src='assets/images/logo-blue.svg' alt="" width="165" />
                     </a>
 
                     {/* Navbar toggler button  */}
@@ -40,7 +40,7 @@ const Header = () => {
                                 }
                                 </ul> 
                             <div className="">
-                            <a href="login.html" className="btn btn-outline-primary-dark">Get started</a>
+                            <a href="login.html" className="btn btn-outline-primary">Get started</a>
                             </div>
                         </div>
                     </div>

@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###### Special Instruction
+Replace the below
+1. class with className
+2. stroke-linecap with strokeLinecap
+3. stroke-linejoin with strokeLinejoin
+4. stroke-width with strokeWidth
+5. for with htmlFor
+6. <!-- with {/*
+7. --> with */}
