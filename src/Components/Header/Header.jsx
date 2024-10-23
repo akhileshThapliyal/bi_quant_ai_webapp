@@ -1,9 +1,9 @@
+import { memo } from "react";
 import { MenuList } from "../../Data/MenuList";
 import NavMenuList from "./NavMenuList";
 
 // /logo/logo.svg
-
-export default function Header(){
+const Header = () => {
     return(
         <>
          {/* Navbar */}
@@ -34,7 +34,7 @@ export default function Header(){
                                 <ul className="navbar-nav gap-lg-2 gap-xl-5">
                                 {
                                     MenuList.map((item, index) => (
-                                        <NavMenuList>
+                                        <NavMenuList key={index}>
                                             {item}
                                         </NavMenuList>))
                                 }
@@ -48,4 +48,6 @@ export default function Header(){
             </nav> 
         </>                        
     );
-}
+};
+
+export default memo(Header);
